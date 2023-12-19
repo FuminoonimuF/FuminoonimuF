@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**FuminoonimuF/FuminoonimuF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+BUPT graduates in 2021. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Know a little about Reinforcement Learning.
+
+Now I'm a FE Developer in network security field,  working for OSMS.
+
+I used to dev wechat miniprogram in Tencent(2020).
+
+Retired OSU player-> https://osu.ppy.sh/users/1842742
+
+### Stacks
+
+`Python` `Javascript` `Typescript` `Golang` `Electron` `Tauri` `Vue.js` `React.js` `Nodejs`
